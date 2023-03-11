@@ -50,7 +50,9 @@
 -	Q: **_"It this compatible for godot 4.x ?"_**\
 	A: No, but work on it soon.
 
+## 💝 Thanks to
 
+- [Boranroni](https://github.com/boranroni)
 
 &nbsp;
 
