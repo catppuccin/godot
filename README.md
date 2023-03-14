@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/boranroni/godot-engine/stargazers"><img src="https://img.shields.io/github/stars/boranroni/godot-engine?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/boranroni/godot-engine/issues"><img src="https://img.shields.io/github/issues/boranroni/godot-engine?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/boranroni/godot-engine/contributors"><img src="https://img.shields.io/github/contributors/boranroni/godot-engine?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -50,7 +50,9 @@
 -	Q: **_"It this compatible for godot 4.x ?"_**\
 	A: No, but work on it soon.
 
+## 💝 Thanks to
 
+- [Boranroni](https://github.com/boranroni)
 
 &nbsp;
 
