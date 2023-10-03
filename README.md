@@ -36,8 +36,8 @@
 
 ## Usage
 
-![NOTE]
-This theme is for Godot 3. For Godot 4 support, use the [main branch](https://github.com/catppuccin/godot)
+> [!NOTE]
+> This theme is for Godot 3. For Godot 4 support, use the [main branch](https://github.com/catppuccin/godot)
 
 ### Text Editor Theme
 
