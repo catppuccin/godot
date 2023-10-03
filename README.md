@@ -12,47 +12,76 @@
 </p>
 
 <p align="center">
-	<img src="assets/main_preview.webp"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.png"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.png"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.png"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.png"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Clone this repository locally
-2. Place the `.tet` files in your Godot text editor theme directory:
-      - On Linux: `~/.config/godot/text_editor_themes/`
-      - On macOS: `~/Library/Application Support/Godot/text_editor_themes/`
-      - On Windows: `%APPDATA%\Godot\text_editor_themes\` 
-3. In Godot engine go to Editor -> Editor Settings -> Theme
-4. Choose your flavour.
+![NOTE]
+This theme is for Godot 4. For Godot 3 support, use the [godot3 branch](https://github.com/catppuccin/godot/tree/godot3)
 
+### Text Editor Theme
 
-## 🙋 FAQ
+1. Download the [`.tet` files](themes/) for the flavour(s) you want into Godot's text editor themes directory:
+	- Linux: `~/.config/godot/text_editor_themes/`
+	- macOS: `~/Library/Application Support/Godot/text_editor_themes/`
+	- Windows: `%APPDATA%\Godot\text_editor_themes\` 
+	- Steam: `steamapps/common/Godot Engine/editor_data/text_editor_themes/`
+2. In Godot, go to Editor → Editor Settings → Text Editor → Theme
+3. Choose your flavour in the Color Theme dropdown.
 
--	Q: **_"It this compatible for godot 4.x ?"_**\
-	A: No, but work on it soon.
+### Interface Theme
+
+1. In Godot, go to Editor → Editor Settings → Interface → Theme
+2. Use the following settings:
+	- Base Color:
+		- Latte: `#eff1f5`
+		- Frappé: `#303446`
+		- Macchiato: `#24273a`
+		- Mocha: `#1e1e2e`
+	- Accent:
+		- Latte: `#8839ef`
+		- Frappé: `#ca9ee6`
+		- Macchiato: `#c6a0f6`
+		- Mocha: `#cba6f7`
+	- Contrast:
+		- Latte: `0.06`
+		- Mocha/Macchiato/Frappé: `0.2`
+	- Icon Saturation:
+		- Latte: `1.0`
+		- Mocha/Macchiato/Frappé: `0.6`
+
+## Customization
+
+The text editor themes are generated from a [template file](template.tet). You can customize the themes by editing the template file and running the [generator script](gen.py):
+
+```shell
+python gen.py
+```
 
 ## 💝 Thanks to
 
 - [Boranroni](https://github.com/boranroni)
+- [backwardspy](https://github.com/backwardspy)
 
 &nbsp;
 
