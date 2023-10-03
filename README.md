@@ -37,7 +37,7 @@
 ## Usage
 
 ![NOTE]
-This theme is for Godot 4. For Godot 3 support, use the [godot3 branch](https://github.com/catppuccin/godot/tree/godot3)
+This theme is for Godot 3. For Godot 4 support, use the [main branch](https://github.com/catppuccin/godot)
 
 ### Text Editor Theme
 
@@ -66,9 +66,6 @@ This theme is for Godot 4. For Godot 3 support, use the [godot3 branch](https://
 	- Contrast:
 		- Latte: `0.06`
 		- Mocha/Macchiato/Frappé: `0.2`
-	- Icon Saturation:
-		- Latte: `1.0`
-		- Mocha/Macchiato/Frappé: `0.6`
 
 ## Customization
 
