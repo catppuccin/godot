@@ -13,6 +13,13 @@ FLAVOUR_NAMES = {
     "mocha": "Mocha",
 }
 
+BASE_REDS = {
+    "latte": "#e8b9c6",
+    "frappe": "#5e4856",
+    "macchiato": "#563f51",
+    "mocha": "#53394d",
+}
+
 
 def download(url, path):
     print(f"Downloading {url} to {path}")
@@ -38,6 +45,7 @@ template = string.Template(Path("template.tet").read_text())
 for flavour, colours in palette().items():
     hexes = {name: v["hex"] for name, v in colours.items()}
     hexes["accent"] = hexes[ACCENT]
+    hexes["base_red"] = BASE_REDS[flavour]
     path = Path("themes") / f"Catppuccin {FLAVOUR_NAMES[flavour]}.tet"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(template.substitute(hexes))
