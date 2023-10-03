@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/boranroni/godot-engine/stargazers"><img src="https://img.shields.io/github/stars/boranroni/godot-engine?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/boranroni/godot-engine/issues"><img src="https://img.shields.io/github/issues/boranroni/godot-engine?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/boranroni/godot-engine/contributors"><img src="https://img.shields.io/github/contributors/boranroni/godot-engine?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/godot/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/godot?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/godot/issues"><img src="https://img.shields.io/github/issues/catppuccin/godot?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/godot/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/godot?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
