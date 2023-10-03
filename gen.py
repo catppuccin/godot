@@ -20,6 +20,9 @@ BASE_REDS = {
     "mocha": "#53394d",
 }
 
+PIN = "v0.2.0"
+URL = f"https://github.com/catppuccin/palette/blob/{PIN}/palette-porcelain.json?raw=1"
+
 
 def download(url, path):
     print(f"Downloading {url} to {path}")
@@ -33,8 +36,7 @@ def palette():
     palette_path = Path(".cache/palette.json")
 
     if not palette_path.exists():
-        url = "https://raw.githubusercontent.com/catppuccin/palette/main/palette-porcelain.json"
-        download(url, palette_path)
+        download(URL, palette_path)
 
     with palette_path.open() as f:
         return json.load(f)
