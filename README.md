@@ -41,6 +41,12 @@
 
 ### Text Editor Theme
 
+#### Official Collection
+
+Catppuccin is available in the [Godot Syntax Themes repository](https://github.com/godotengine/godot-syntax-themes/tree/3.x), installation instructions are in the readme.
+
+#### Manual Installation
+
 1. Download the [`.tet` files](themes/) for the flavour(s) you want into Godot's text editor themes directory:
 	- Linux: `~/.config/godot/text_editor_themes/`
 	- macOS: `~/Library/Application Support/Godot/text_editor_themes/`
