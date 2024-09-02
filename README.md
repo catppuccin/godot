@@ -78,10 +78,10 @@ Catppuccin is available in the [Godot Syntax Themes repository](https://github.c
 
 ## Customization
 
-The text editor themes are generated from a [template file](template.tet). You can customize the themes by editing the template file and running the [generator script](gen.py):
+The text editor themes are generated from a [template file](godot.tera). You can customize the themes by editing the template file and running [catppuccin/whiskers](https://github.com/catppuccin/whiskers):
 
 ```shell
-python gen.py
+whiskers godot.tera
 ```
 
 ## 💝 Thanks to
