@@ -32,6 +32,8 @@
 <details>
 <summary>🌿 Mocha</summary>
 <img src="assets/mocha.webp"/>
+</details>
+<details>
 <summary>🌻 Latte Godot</summary>
 <img src="assets/latte_godot.webp"/>
 </details>
