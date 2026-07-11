@@ -41,7 +41,7 @@
 </details>
 <details>
 <summary>🌺 Macchiato Godot</summary>
-<img src="assets/macchiato.webp"/>
+<img src="assets/macchiato_godot.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha Godot</summary>
