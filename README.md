@@ -33,6 +33,22 @@
 <summary>🌿 Mocha</summary>
 <img src="assets/mocha.webp"/>
 </details>
+<details>
+<summary>🌻 Latte Godot</summary>
+<img src="assets/latte_godot.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé Godot</summary>
+<img src="assets/frappe_godot.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato Godot</summary>
+<img src="assets/macchiato_godot.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha Godot</summary>
+<img src="assets/mocha_godot.webp"/>
+</details>
 
 ## Usage
 
