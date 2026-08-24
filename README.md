@@ -58,23 +58,8 @@ Catppuccin is available in the [Godot Syntax Themes repository](https://github.c
 ### Interface Theme
 
 1. In Godot, go to Editor → Editor Settings → Interface → Theme
-2. Use the following settings:
-	- Base Color:
-		- Latte: `#eff1f5`
-		- Frappé: `#303446`
-		- Macchiato: `#24273a`
-		- Mocha: `#1e1e2e`
-	- Accent:
-		- Latte: `#8839ef`
-		- Frappé: `#ca9ee6`
-		- Macchiato: `#c6a0f6`
-		- Mocha: `#cba6f7`
-	- Contrast:
-		- Latte: `0.06`
-		- Mocha/Macchiato/Frappé: `0.2`
-	- Icon Saturation:
-		- Latte: `1.0`
-		- Mocha/Macchiato/Frappé: `0.6`
+2. Change Color Preset to Custom
+3. In Custom Theme, pick your flavour from the file search button
 
 ## Customization
 
