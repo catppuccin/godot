@@ -1,0 +1,21 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://bcibt73qths3g"]
+
+[sub_resource type="GDScript" id="GDScript_hhmc0"]
+script/source = "@tool
+extends Theme
+
+func _init() -> void:
+  var settings : EditorSettings = EditorInterface.get_editor_settings()
+  var base_color: Color = Color('#303446')
+  var accent_color = Color('#ca9ee6')
+  var contrast: float = 0.2
+  var icon_saturation: float = 0.6
+  settings.set_setting('interface/theme/base_color', base_color)
+  settings.set_setting('interface/theme/accent_color', accent_color)
+  settings.set_setting('interface/theme/contrast', contrast)
+  settings.set_setting('interface/theme/icon_saturation', icon_saturation)
+"
+
+[resource]
+script = SubResource("GDScript_hhmc0")
+
